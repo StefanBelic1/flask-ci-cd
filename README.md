@@ -1,4 +1,4 @@
-# Flask DevOps Project
+# flask-ci-cd
 
 ## 📌 Projekt: Automatizirani Deployment Flask Aplikacije
 
